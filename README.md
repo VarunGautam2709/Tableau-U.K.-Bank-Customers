@@ -2,7 +2,7 @@
 ### Viz created for a U.K. based Bank includes Dashboard and Story.
 
 
-Link: https://public.tableau.com/views/U_K_BankCustomers_16397589233610/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+Link: https://public.tableau.com/views/U_K_BankCustomers_16397637212860/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 
 
